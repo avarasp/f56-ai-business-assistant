@@ -125,7 +125,7 @@ It currently demonstrates:
 - real-world data integration
 - protection against unrestricted LLM-generated SQL
 
-The interesting part of the project is deliberately **not the SQL query itself**; is the orchestration layer that turns an ambiguous natural-language request into a safe, typed and deterministic application operation.
+The interesting part of the project is deliberately **not the SQL query itself**. It is the orchestration layer that turns an ambiguous natural-language request into a safe, typed and deterministic application operation.
 
 ## Current stack
 
